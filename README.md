@@ -22,7 +22,7 @@ This is a challenge from Frontend Mentor. It is very easy and can be completed b
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://iuliagsirbu.github.io/qr-code-component-frontendmentor/](https://your-live-site-url.com)
+- Live Site URL: https://iuliagsirbu.github.io/qr-code-component-frontendmentor/
 
 ### Built with
 
