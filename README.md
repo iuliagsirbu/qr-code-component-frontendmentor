@@ -21,6 +21,7 @@ This is a challenge from Frontend Mentor. It is very easy and can be completed b
 
 ### Links
 
+- Link to the solution: https://www.frontendmentor.io/solutions/qr-code-component-with-html-and-css-nqLpCtr-d6
 - Live Site URL: https://iuliagsirbu.github.io/qr-code-component-frontendmentor/
 
 ### Built with
